@@ -1,0 +1,26 @@
+# /etc/conf.d/specialcoind: config file for /etc/init.d/specialcoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/specialcoin/specialcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/specialcoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/specialcoind.pid"
+
+# Where to write specialcoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/specialcoind"
+
+# User and group to own specialcoind process
+#BITCOIND_USER="specialcoin"
+#BITCOIND_GROUP="specialcoin"
+
+# Path to specialcoind executable
+#BITCOIND_BIN="/usr/bin/specialcoind"
+
+# Nice value to run specialcoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

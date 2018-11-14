@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Specialcoin
+Comment=Specialcoin P2P Cryptocurrency
+Comment[fr]=Specialcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Specialcoin, eşten eşe kriptografik sanal para birimi
+Exec=specialcoin-qt %u
+Terminal=false
+Type=Application
+Icon=specialcoin128
+MimeType=x-scheme-handler/specialcoin;
+Categories=Office;Finance;
