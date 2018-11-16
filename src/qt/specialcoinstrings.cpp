@@ -225,10 +225,10 @@ QT_TRANSLATE_NOOP("specialcoin-core", ""
 QT_TRANSLATE_NOOP("specialcoin-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("specialcoin-core", "(22001 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("specialcoin-core", "(21013 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("specialcoin-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("specialcoin-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("specialcoin-core", "(must be 22001 for mainnet)"),
+QT_TRANSLATE_NOOP("specialcoin-core", "(must be 21013 for mainnet)"),
 QT_TRANSLATE_NOOP("specialcoin-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("specialcoin-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("specialcoin-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),
